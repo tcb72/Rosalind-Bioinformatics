@@ -1,5 +1,5 @@
 def calcProteinMass(protein_string):
-    # amount of times a protein corresponds to different codons
+    # dict of protein weights
     protein_weights = {'A':71.03711,
                        'C':103.00919,
                        'D':115.02694,
